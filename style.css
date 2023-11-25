@@ -62,7 +62,7 @@ body {
     background-color:#FFFFFF;
     margin: 0 auto;
     display: grid;
-    grid-template-rows: (6,1fr)
+    grid-template-rows: (6, 1fr)
 }
 
 header {
@@ -229,7 +229,7 @@ label {
 
 input[value="Submit"] {
     background-color:#007d7b;
-    width:30vh;
+    width:70%;
     height:5vh;
     color:#FFFFFF;
     border-radius:10px;
